@@ -28,7 +28,7 @@ npm run start
 
 IMPORTANT!!!
 
-Start the phone-catalogue-api service previously
+Start the [phone-catalogue-api](https://github.com/alexiscetf/phone-catalogue-api) service previously
 
 ### Custom Setting
 
